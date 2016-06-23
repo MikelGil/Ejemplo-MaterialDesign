@@ -1,0 +1,94 @@
+{
+	"data":[
+			{
+				"movie":"Suicide Squad",
+				"year":"2016",
+				"director":"David Ayer",
+				"cast":"Ben Affleck, Margot Robbie, Cara Delevingne",
+				"poster":"http://cdn2-www.comingsoon.net/assets/uploads/gallery/suicide-squad/12489243_1674589672821667_4430624289856009994_o.jpg",
+				"image":"http://www.hdwallpapers.in/walls/suicide_squad_2016_movie-wide.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/suicide.mp4"
+			},
+			{
+				"movie":"Animales fantásticos y dónde encontrarlos",
+				"year":"2016",
+				"director":"David Yates",
+				"cast":"Ezra Miller, Eddie Redmayne, Colin Farrell ",
+				"poster":"https://40.media.tumblr.com/a70911f6935711fd98edbfc2c8460707/tumblr_nzhqoqZ0Co1ruok98o1_500.jpg",
+				"image":"http://www.wpaperhd.com/uploads/originals/2016/02/05/fantastic-beasts-and-where-to-find-them-rgME.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/beasts.mp4"
+			},
+			{
+				"movie":"Capitán América: Civil War",
+				"year":"2016",
+				"director":"Anthony Russo, Joe Russo",
+				"cast":"Chris Evans, Robert Downey Jr., Scarlett Johansson",
+				"poster":"http://www.cosmicbooknews.com/sites/default/files/teamsvscivilwarposter.jpg",
+				"image":"http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2015/12/anglo_1920x720_civlilwar.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/capitan.mp4"
+			},
+			{
+				"movie":"Independence Day: Contraataque",
+				"year":"2016",
+				"director":"Roland Emmerich",
+				"cast":"Liam Hemsworth, Joey King, Maika Monroe",
+				"poster":"http://i1.wp.com/thepeoplesmovies.com/wp-content/uploads/2016/03/independence-Day-Resurgence-Poster-Europe.jpg",
+				"image":"http://screenrant.com/wp-content/uploads/Independence-Day-2-Trailer-Resurgence.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/independence.mp4"
+			},
+			{
+				"movie":"El hogar de Miss Peregrine para niños peculiares",
+				"year":"2016",
+				"director":"Tim Burton",
+				"cast":"Ella Purnell, Eva Green, Asa Butterfield",
+				"poster":"http://www.blastr.com/sites/blastr/files/miss-peregrines-home-movie-poster1.jpg",
+				"image":"http://screencrush.com/442/files/2016/03/miss-pegrine-1.png",
+				"trailer":"http://www.sotoan.com/Curso/trailers/peregrine.mp4"
+			},
+			{
+				"movie":"Rogue One: A Star Wars Story",
+				"year":"2016",
+				"director":"Gareth Edwards",
+				"cast":"Felicity Jones, Mads Mikkelsen, Alan Tudyk",
+				"poster":"http://images-cdn.moviepilot.com/images/c_fill,h_1200,w_800/t_mp_quality/k1ulmtu9juoafitlexls/first-star-wars-rogue-one-movie-poster-star-wars-rogue-one-movie-poster-ryan-crain-desi-339301.jpg",
+				"image":"https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3971816/Master_Cast_Photo_1of2_2.0.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/rogue.mp4"
+			},
+			{
+				"movie":"Doctor Extraño",
+				"year":"2016",
+				"director":"Scott Derrickson",
+				"cast":" Rachel McAdams, Benedict Cumberbatch, Tilda Swinton",
+				"poster":"http://40.media.tumblr.com/7017c33916dc98a4c8574c358c9ff7c2/tumblr_o0h0arICxS1u1h043o1_1280.png",
+				"image":"http://x.annihil.us/u/prod/marvel/i/mg/b/d0/568ad0a32ead4.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/strange.mp4"
+			},
+			{
+				"movie":"Game of Thrones 6",
+				"year":"2016",
+				"director":"David Nutter, David Benioff, Alex Graves",
+				"cast":"Maisie Williams,Sophie Turner,Peter Dinklage",
+				"poster":"http://www.wired.com/wp-content/uploads/2015/11/Game-of-Thrones-Season-6.jpg",
+				"image":"https://images5.alphacoders.com/403/403408.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/thrones.mp4"
+			},
+			{
+				"movie":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+				"year":"2016",
+				"director":"Dave Green",
+				"cast":"Megan Fox, Stephen Amell, Will Arnett",
+				"poster":"http://cdn1-www.comingsoon.net/assets/uploads/gallery/teenage-mutant-ninja-turtles-2/10295201_335461629910940_86520950003392813_o.jpg",
+				"image":"https://wallpaperscraft.com/image/teenage_mutant_ninja_turtles_raphael_michelangelo_leonardo_donatello_98466_1920x1080.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/tmnt.mp4"
+			},
+			{
+				"movie":"X-Men: Apocalipsis",
+				"year":"2016",
+				"director":"Bryan Singer",
+				"cast":"Jennifer Lawrence, Sophie Turner, Olivia Munn",
+				"poster":"http://cdn2-www.superherohype.com/assets/uploads/gallery/bts-x-men-apocalypse/cv2lgxnueaa6kk0_zpsbxpb2xyn.gif",
+				"image":"http://www.pacifymind.net/wp-content/uploads/10779d-x-men-apocalypse-photo-high-quality.jpg",
+				"trailer":"http://www.sotoan.com/Curso/trailers/xmen.mp4"
+			}
+		]
+}
