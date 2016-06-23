@@ -68,7 +68,7 @@ public class MainActivity extends Activity {
     //Metodo que hace la consulta del JSON
     public void Consulta(){
         ProcessJSON consulta = new ProcessJSON();
-        consulta.execute("https://github.com/MikelGil/Ejemplo-MaterialDesign/master/cine.JSON");
+        consulta.execute("https://raw.githubusercontent.com/MikelGil/Ejemplo-MaterialDesign/master/cine.JSON");
     }
 
     //Metodo para tratar la información del archivo JSON
