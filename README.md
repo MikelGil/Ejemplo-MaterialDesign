@@ -5,5 +5,5 @@ Desde un archivo json, se lee su contenido y se muestran las películas usando M
 
 Al hacer click sobre una película se carga su ficha, que contiene todos sus datos, además del trailer de la película.
 
--TO DO:
+- TO DO:
   - Integración con Twitter, Whatsapp y Facebook 
